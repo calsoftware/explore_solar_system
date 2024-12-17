@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Mercury",
+        "mass": "3.3011e23",
+        "distance_from_sun": "57910000",
+        "moons": []
+    },
+    {
+        "name": "Venus",
+        "mass": "4.8675e24",
+        "distance_from_sun": "108200000",
+        "moons": []
+    },
+    {
+        "name": "Earth",
+        "mass": "5.97237e24",
+        "distance_from_sun": "149600000",
+        "moons": [
+            "Moon"
+        ]
+    },
+    {
+        "name": "Mars",
+        "mass": "6.4171e23",
+        "distance_from_sun": "227900000",
+        "moons": [
+            "Phobos",
+            "Deimos"
+        ]
+    },
+    {
+        "name": "Jupiter",
+        "mass": "1.8982e27",
+        "distance_from_sun": "778500000",
+        "moons": [
+            "Io",
+            "Europa",
+            "Ganymede",
+            "Callisto"
+        ]
+    },
+    {
+        "name": "Saturn",
+        "mass": "5.6834e26",
+        "distance_from_sun": "1433500000",
+        "moons": [
+            "Titan",
+            "Enceladus"
+        ]
+    },
+    {
+        "name": "Uranus",
+        "mass": "8.6810e25",
+        "distance_from_sun": "2872500000",
+        "moons": [
+            "Miranda",
+            "Ariel",
+            "Umbriel",
+            "Titania",
+            "Oberon"
+        ]
+    },
+    {
+        "name": "Neptune",
+        "mass": "1.02413e26",
+        "distance_from_sun": "4495100000",
+        "moons": [
+            "Triton"
+        ]
+    },
+    {
+        "name": "Pluto",
+        "mass": "1.303e22",
+        "distance_from_sun": "5906400000",
+        "moons": [
+            "Charon"
+        ]
+    }
+]
